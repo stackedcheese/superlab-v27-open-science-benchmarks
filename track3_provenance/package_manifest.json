@@ -1,0 +1,18 @@
+{
+  "track": "track3_provenance",
+  "files_sha256": {
+    "reproduce.py": "8832ab1784e5e9fbe54d2f2ee31fd787e99f2db269195ef701ded3aacfb282a4",
+    "result.json": "920dfe3656a4a8862a97588dae416f99b26e42489046fb6a84a626d2a9b4bcec",
+    "LICENSE": "83bd179f869fa4c6a0573fc74b3898a4fa2ab9b4f86a2aff866e27bdfe594408",
+    "CITATION.cff": "c25f583a41be02451622708660d4e3d4cdf4a82b60a2780946eae3d29f7a4fee",
+    "codemeta.json": "973783acb53abe4a9782825c9f8835c84ad5704665e258adf7decdef437fa43d",
+    "requirements.lock.txt": "b5d3fba6400a900376a24b7aaa594576939e2bf7f36fbb778f43ce2ee1dd451e",
+    "zenodo_legacy_deposition.json": "ea39cd04f6f59c2f006e7a7043ef97f44b5763232b3f11bede3f8357752ae57b",
+    "datacite_4_5_draft.json": "2bdea748a3fc800206be999e0b127c44aa487e963f77714be4a61b7b70e5f300",
+    "README.md": "11a7658b9e3de6a59b0c8ee42dc7bfcedefdfd6f0dd9ec57406fd22295f7f229",
+    "pinned_v2_manifest_hashes.json": "311392e3819effcf09a6e84dd733647515fc20f0ed75c1e945e617054580cbd9"
+  },
+  "deposit_created": false,
+  "dataset_license_overridden": false,
+  "publication_authority": false
+}

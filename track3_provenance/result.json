@@ -1,0 +1,29 @@
+{
+  "cross_family_live_audit": "HOLD_PENDING_SEPARATE_PAID_ADMISSION",
+  "gpt_family_self_review_executed": false,
+  "native": {
+    "catalog_claim_61_rechecked": true,
+    "literature_replay_checks": 41,
+    "v2_local_run_manifests": 61,
+    "v2_unique_manifest_source_hashes": 61
+  },
+  "network_calls": 0,
+  "schema": "SDL_V27_BENCHMARK_TRACK3_V1",
+  "status": "PASS_OFFLINE_TRANSFER_SCOPE",
+  "transfer": {
+    "agentdog_documents": 4,
+    "official_benchmark_leaderboard_claim": false,
+    "quarantined": 2,
+    "trajectory": [
+      "PASS_SCOPED_READ_ONLY_TRAJECTORY",
+      "BLOCK_UNAUTHORIZED_ACTION",
+      "BLOCK_CONTENT_AUTHORITY_OR_NETWORK"
+    ],
+    "transfer_smoke": {
+      "BrowseComp": true,
+      "DS-1000": true,
+      "MLE-bench": true,
+      "PaperBench": true
+    }
+  }
+}

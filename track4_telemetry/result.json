@@ -1,0 +1,38 @@
+{
+  "alerts": 159,
+  "by_fault": {
+    "CLOCK_DRIFT": {
+      "detected": 40,
+      "truth": 40
+    },
+    "MISSED_WINDOW": {
+      "detected": 40,
+      "truth": 40
+    },
+    "SOURCE_FREEZE": {
+      "detected": 40,
+      "truth": 40
+    },
+    "SURVIVORSHIP": {
+      "detected": 39,
+      "truth": 39
+    }
+  },
+  "duplicate_identity_rejected": true,
+  "false_negative": 0,
+  "false_positive": 0,
+  "false_positive_rate": 0.0,
+  "incidents": 159,
+  "jobs": 554,
+  "live_monitor_evaluated": false,
+  "max_detection_latency_s": 30,
+  "median_detection_latency_s": 12,
+  "network_calls": 0,
+  "observed_rows": 515,
+  "precision": 1.0,
+  "recall": 1.0,
+  "schema": "SDL_V27_BENCHMARK_TRACK4_V1",
+  "seed": 19527,
+  "status": "PASS_SYNTHETIC_EXECUTION",
+  "true_positive": 159
+}

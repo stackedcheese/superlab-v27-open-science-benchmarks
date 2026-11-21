@@ -1,0 +1,17 @@
+{
+  "track": "track4_telemetry",
+  "files_sha256": {
+    "reproduce.py": "64364eebca9c55e765f5698a84872c11a46a86315fce780ae6716c516fef8ecb",
+    "result.json": "3e5b0d2388ab6e06e27f00ebfd142adaf5ad93b5b3a0b67f41d74a63a2a81558",
+    "LICENSE": "83bd179f869fa4c6a0573fc74b3898a4fa2ab9b4f86a2aff866e27bdfe594408",
+    "CITATION.cff": "3c15322600b80b698bbc472d9802e098eca387618c320e564d1e57231a39d8a8",
+    "codemeta.json": "8ce9411eb383be7e526de390538388f8ee04d44a58e446cfa0e79df5caab12ff",
+    "requirements.lock.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "zenodo_legacy_deposition.json": "38c9194fc390b2772fb1e8b02284d9779338ac13c76955c6c598e8f36edc6541",
+    "datacite_4_5_draft.json": "6a50106d7eb9bd2d692ba31d183a2f06702f1d2a9a5d026056a3d37703310a01",
+    "README.md": "3f7ae8b97b1aa410db4949f410891f1112f2b1fa520c7e07c2fa0be7cdf5c15e"
+  },
+  "deposit_created": false,
+  "dataset_license_overridden": false,
+  "publication_authority": false
+}

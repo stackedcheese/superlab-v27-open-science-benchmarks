@@ -1,0 +1,17 @@
+{
+  "track": "track1_biomechanics",
+  "files_sha256": {
+    "reproduce.py": "d282f1f1caa5636cc95ff3720f0300dae078fdfff3d176bcfcb72afc171281e4",
+    "result.json": "45e46bd25ad93e84565399010cedf09f5720fdf31df5feec4a40c46852c4282c",
+    "LICENSE": "83bd179f869fa4c6a0573fc74b3898a4fa2ab9b4f86a2aff866e27bdfe594408",
+    "CITATION.cff": "619df7ead777d3efd7da2d8657a85e742e9277fccbb00175e2782cf3016a4243",
+    "codemeta.json": "d20cb2e1eb135336704000fb3af8dfeba1452b0ec89190eb6bdca651de0ad622",
+    "requirements.lock.txt": "92515f0ae43710d7c450f3b00940e73b3f11f9be8e2ed086dde2806969efa3df",
+    "zenodo_legacy_deposition.json": "188a183d3acd4ac2d987546362bd2f0ac473f691476caaafd7a24963f7e34b59",
+    "datacite_4_5_draft.json": "5c0ef51146b8dbd6ffb4e43a8a54c3eb0071c06d1b13035107db594e12d5be36",
+    "README.md": "1fe0dfd9631047bec98018efc641a68ec5ae6b4790369ea6b944ff84d5e4dcfc"
+  },
+  "deposit_created": false,
+  "dataset_license_overridden": false,
+  "publication_authority": false
+}
